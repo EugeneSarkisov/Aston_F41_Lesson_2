@@ -1,4 +1,4 @@
-# Aston_F41_Lesson_2
+# Aston_F41_Lesson_4
 
 ###Task:
 Create your own implementation of _ArrayList_. Programme must contains next methods: _add_, _addAll(Collection collection)_, _remove_, _get_, other methods are optional. 
